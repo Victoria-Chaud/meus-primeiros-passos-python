@@ -1,4 +1,4 @@
 print("Bem-vindo(a) ao contador de caracteres.\n")
-name = input ("Qual palavra você deseja contar?")
-length = len(name)
+palavra = input ("Digite o texto para saber a quantidade de caracteres:")
+length = len(palavra)
 print(length)
