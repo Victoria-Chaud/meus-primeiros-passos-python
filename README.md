@@ -88,12 +88,12 @@ git clone https://github.com/Victoria-Chaud/meus-primeiros-passos-python.git
    python imc.py
 
 ---
-# 👩‍🏫 Próximos passos:
+## 👩‍🏫 Próximos passos:
 
 O próximo exercício que estou executando é sobre contagem de gorjeta em uma conta de restaurante.
 
 ---
-📧 Contato
+## 📧 Contato
 - LinkedIn: [Victória Vila Chaud](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - GitHub:[@Victoria-Chaud](https://github.com/Victoria-Chaud)
 
