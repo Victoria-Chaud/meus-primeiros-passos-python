@@ -6,8 +6,8 @@ Aqui compartilho meus primeiros projetos, explorando conceitos básicos de progr
 🏷️Índice:
 
 - [Projeto 1: Contador de caracteres](#-projeto-1-contador-de-caracteres)
-- [Projeto 2: Cálculo de IMC](#-projeto-2--cálculo-de-imc)
-- [Projeto 3: Calculadora de gorjeta](#projeto-3--calculadora-de-gorjeta)
+- [Projeto 2: Cálculo de IMC](#-projeto-2-cálculo-de-imc)
+- [Projeto 3: Calculadora de gorjeta](#projeto-3-calculadora-de-gorjeta)
 - [Contato](#-contato)
 
 ---
@@ -46,7 +46,7 @@ git clone https://github.com/Victoria-Chaud/meus-primeiros-passos-python.git
 
 ---
 
-## 🧮 Projeto 2 – Cálculo de IMC
+## 🧮 Projeto 2: Cálculo de IMC
 
 ## 📖 Descrição:
 
@@ -88,7 +88,7 @@ git clone https://github.com/Victoria-Chaud/meus-primeiros-passos-python.git
    python imc.py
 
 ---
-## 💵 Projeto 3 – Calculadora de gorjeta
+## 💵 Projeto 3: Calculadora de gorjeta
 
 ## 📖 Descrição:
 
