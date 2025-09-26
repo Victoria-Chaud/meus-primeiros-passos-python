@@ -89,7 +89,7 @@ git clone https://github.com/Victoria-Chaud/meus-primeiros-passos-python.git
    python imc.py
 
 ---
-## 💵 Projeto 3: Calculadora de gorjeta
+## 💵 Projeto 3: Calculadora de Gorjeta
 
 ## 📖 Descrição:
 
