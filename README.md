@@ -7,7 +7,7 @@ Aqui compartilho meus primeiros projetos, explorando conceitos básicos de progr
 
 - [Projeto 1: Contador de caracteres](#-projeto-1-contador-de-caracteres)
 - [Projeto 2: Cálculo de IMC](#-projeto-2-cálculo-de-imc)
-- [Projeto 3: Calculadora de gorjeta](#projeto-3-calculadora-de-gorjeta)
+- [Projeto 3: Calculadora de gorjeta](#projeto-3--calculadora-de-gorjeta)
 - [Contato](#-contato)
 
 ---
