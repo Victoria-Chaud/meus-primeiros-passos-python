@@ -7,7 +7,7 @@ Aqui compartilho meus primeiros projetos, explorando conceitos básicos de progr
 
 - [Projeto 1: Contador de caracteres](#-projeto-1-contador-de-caracteres)
 - [Projeto 2: Cálculo de IMC](#-projeto-2--cálculo-de-imc)
-- [Próximos passos](#-próximos-passos)
+- [Projeto 3: Calculadora de gorjeta](#projeto-3--calculadora-de-gorjeta)
 - [Contato](#-contato)
 
 ---
@@ -88,9 +88,46 @@ git clone https://github.com/Victoria-Chaud/meus-primeiros-passos-python.git
    python imc.py
 
 ---
-## 👩‍🏫 Próximos passos:
+## 💵 Projeto 3 – Calculadora de gorjeta
 
-O próximo exercício que estou executando é sobre contagem de gorjeta em uma conta de restaurante.
+## 📖 Descrição:
+
+Este projeto é uma calculadora de gorjetas, onde o usuário informa:
+
+1. O valor total da conta;
+2. A porcentagem que deseja dar de gorjeta (ex.: 10%, 12% ou 15%);
+3. Quantas pessoas dividirão a conta.
+
+--
+## 🛠️ Tecnologias utilizadas
+
+- [Python 3](https://www.python.org/)
+- [VS Code](https://code.visualstudio.com/download)
+
+---
+## 🎯 Objetivo de aprendizado
+
+1. Praticar operações matemáticas com porcentagens;
+2. Usar variáveis para armazenar diferentes tipos de dados (int, float);
+3. Formatar valores monetários com casas decimais (:.2f);
+4. Desenvolver a lógica de divisão de valores entre várias pessoas.
+
+---
+### ▶️ Como executar o projeto
+
+1. Certifique-se de que o **Python 3** está instalado em sua máquina.
+   
+2. Clone este repositório (caso ainda não tenha feito):
+   
+git clone https://github.com/Victoria-Chaud/meus-primeiros-passos-python.git
+
+3. Acesse a pasta do projeto:
+   
+   cd meus-primeiros-passos-python/mod-02
+   
+4. Execute o arquivo imc.py:
+   
+   python CalculadoraGorjeta.py
 
 ---
 ## 📧 Contato
