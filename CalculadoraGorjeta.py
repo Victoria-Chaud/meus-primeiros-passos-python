@@ -25,7 +25,7 @@ totalPorPessoa = totalComGorjeta / pessoasPagantes
 
 # Mensagem com o valor total a ser pago
 
-print(f"\nO valor total a ser pago dividido por {pessoasPagantes} pessoas é de: R$ {totalPorPessoa}")
+print(f"\nO valor total a ser pago dividido por {pessoasPagantes} pessoas é de: R$ {totalPorPessoa:.2f}")
 
 
 print("\nAgradecemos por usar nosso aplicativo :) ")
